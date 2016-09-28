@@ -25,7 +25,7 @@ Create a text file switches.txt and enter the switch IP addresses.
 
 from your terminal
 
-python download_show_tech.py -i /home/arista/show-tech/switches.txt switches.txt -o /home/arista/show-tech
+**python download_show_tech.py -i /home/arista/show-tech/switches.txt -o /home/arista/show-tech**
 
 The script will download the show tech-support file and store it in the /home/arista/show-tech folder.
 
